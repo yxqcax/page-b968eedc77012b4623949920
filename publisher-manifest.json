@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "9363c9d8ef4a9c2e037e2dbd",
+  "owner": "yxqcax",
+  "repo": "page-b968eedc77012b4623949920",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b968eedc77012b4623949920",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "c1e3f6b659a77b9b0dc4e8da5d6d3b3e005e6011c7de3ea62372ee4b9180ba91",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供专业的VPN加速器服务，安全稳定，助力全球网络畅通。立即下载客户端，享受高速加速体验。",
+          "AI_DESCRIPTION": "44F网络提供专业的VPN加速器服务，安全稳定，助力全球网络畅通。立即下载客户端，享受高速加速体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n<style>\n    body {\n        font-family: 'Helvetica Neue', Arial, sans-serif;\n        line-height: 1.6;\n        color: #333;\n        background-color: #f8f9fa;\n        margin: 0;\n        padding: 0;\n    }\n    header {\n        background: white;\n        box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n        position: sticky;\n        top: 0;\n        z-index: 10;\n    }\n    nav {\n        max-width: 1200px;\n        margin: 0 auto;\n        padding: 1rem 2rem;\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n    }\n    .nav-links {\n        display: flex;\n        gap: 2rem;\n    }\n    .nav-links a {\n        text-decoration: none;\n        color: #333;\n        font-weight: 500;\n    }\n    .hero {\n        background: linear-gradient(135deg, #6b46c1, #9b7ed5);\n        color: white;\n        padding: 4rem 2rem;\n        text-align: center;\n    }\n    .hero h1 {\n        font-size: 3rem;\n        margin: 0 0 1rem;\n    }\n    .hero p {\n        font-size: 1.2rem;\n        max-width: 600px;\n        margin: 0 auto;\n    }\n    .section {\n        max-width: 1200px;\n        margin: 3rem auto;\n        padding: 0 2rem;\n        display: flex;\n        gap: 2rem;\n        align-items: center;\n    }\n    .left {\n        flex: 1;\n    }\n    .right {\n        flex: 1;\n        background-color: #f0e6fa;\n        padding: 2rem;\n        border-radius: 8px;\n    }\n    h2 {\n        color: #6b46c1;\n        font-size: 2rem;\n        margin-bottom: 1rem;\n    }\n    h3 {\n        color: #444;\n        font-size: 1.5rem;\n    }\n    .feature-grid {\n        display: grid;\n        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));\n        gap: 1rem;\n    }\n    .card {\n        background: white;\n        border-radius: 8px;\n        padding: 1.5rem;\n        box-shadow: 0 4px 6px rgba(0,0,0,0.1);\n    }\n    .plan {\n        border: 2px solid #6b46c1;\n    }\n    .section:nth-child(even) .right {\n        background-color: #e6f0fa;\n    }\n    details {\n        background: white;\n        margin: 1rem 0;\n        border-radius: 8px;\n        overflow: hidden;\n    }\n    summary {\n        padding: 1rem;\n        font-weight: bold;\n        cursor: pointer;\n        background: #f0e6fa;\n    }\n    summary:hover {\n        background: #e0d4f0;\n    }\n    .answer {\n        padding: 1rem;\n        color: #555;\n    }\n    button {\n        background: #6b46c1;\n        color: white;\n        border: none;\n        padding: 0.75rem 1.5rem;\n        border-radius: 4px;\n        cursor: pointer;\n    }\n    button:hover {\n        background: #5a3ca8;\n    }\n    footer {\n        background: #333;\n        color: white;\n        padding: 2rem;\n        text-align: center;\n    }\n    @media (max-width: 768px) {\n        .section {\n            flex-direction: column;\n        }\n        .hero h1 {\n            font-size: 2.5rem;\n        }\n    }\n</style>\n\n\n<header>\n<nav>\n<div class=\"logo\">44F网络</div>\n<div class=\"nav-links\">\n<a href=\"#home\">首页</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#download\">下载</a>\n<a href=\"#faq\">FAQ</a>\n</div>\n</nav>\n</header>\n<main>\n<section id=\"home\" class=\"hero\">\n<h1>44F网络</h1>\n<p>安全稳定的VPN加速器，助力您畅享全球网络。下载客户端，解锁无限可能。</p>\n</section>\n<section class=\"section\">\n<div class=\"left\">\n<h2>品牌简介</h2>\n<p>44F网络致力于提供优质的网络加速服务。通过先进的VPN技术，帮助用户突破地域限制，获得更快更稳定的网络连接。</p>\n<p>适用于个人用户和团队企业，提供从基础到旗舰的多重选择。</p>\n</div>\n<div class=\"right\">\n<p>使用场景</p>\n<ul>\n<li>解锁全球流媒体内容</li>\n<li>优化在线游戏体验</li>\n<li>提供安全办公环境</li>\n<li>支持跨境商务活动</li>\n</ul>\n</div>\n</section>\n<section class=\"section\">\n<div class=\"left\">\n<h2>使用场景</h2>\n<p>无论您是学生、职场人士还是游戏玩家，44F网络都能满足您的网络需求。无论是日常浏览还是专业应用，均可享受流畅体验。</p>\n</div>\n<div class=\"right\">\n<p>操作说明</p>\n<ol>\n<li>访问官网下载客户端</li>\n<li>选择合适的套餐</li>\n<li>注册账号并登录</li>\n<li>选择节点连接网络</li>\n</ol>\n</div>\n</section>\n<section id=\"plans\" class=\"section\">\n<div class=\"left\">\n<h2>套餐选择</h2>\n<p>根据您的需求选择适合的套餐，开始享受高速加速。</p>\n</div>\n<div class=\"right\">\n{{PLANS_HTML}}\n</div>\n</section>\n<section id=\"download\" class=\"section\">\n<div class=\"left\">\n<h2>客户端下载</h2>\n<p>立即下载我们的客户端，开启安全加速之旅。</p>\n</div>\n<div class=\"right\">\n{{CLIENTS_HTML}}\n</div>\n</section>\n<section id=\"faq\" class=\"section\">\n<div class=\"left\">\n<h2>常见问题</h2>\n<p>以下是用户常见问题的解答，帮助您快速了解44F网络。</p>\n</div>\n<div class=\"right\">\n<details>\n<summary>如何注册44F网络账号？</summary>\n<div class=\"answer\">\n<p>访问官网注册页面，填写必要信息并完成验证，即可获得账号。</p>\n</div>\n</details>\n<details>\n<summary>支持哪些设备？</summary>\n<div class=\"answer\">\n<p>支持Windows、Mac、Android、iOS等多款设备，并提供浏览器扩展。</p>\n</div>\n</details>\n<details>\n<summary>节点池是什么？</summary>\n<div class=\"answer\">\n<p>节点池包含多个优质服务器节点，可根据需求选择最优连接。</p>\n</div>\n</details>\n<details>\n<summary>如何解锁流媒体？</summary>\n<div class=\"answer\">\n<p>选择对应平台的节点即可解锁流媒体服务。</p>\n</div>\n</details>\n<details>\n<summary>客服支持时间？</summary>\n<div class=\"answer\">\n<p>提供7x24在线客服支持，优先工单处理。</p>\n</div>\n</details>\n</div>\n</section>\n</main>\n<footer>\n<p>© 2024 44F网络 版权所有</p>\n</footer>\n\n",
+          "hash": "abb822686f2c812fb914502dc4dc0b10509ea8c372861d0d2452573b5a15fcd7",
+          "seo": {
+            "title": "44F网络 VPN加速器 客户端下载 官网",
+            "keywords": "44F网络,VPN,加速器,客户端下载,机场",
+            "description": "44F网络提供专业的VPN加速器服务，安全稳定，助力全球网络畅通。立即下载客户端，享受高速加速体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "5ptk8e4l.cn",
+    "host": "b.5ptk8e4l.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "5ptk8e4l.cn",
+      "url": "https://5ptk8e4l.cn/",
+      "label": "MIMEMI",
+      "apex": "5ptk8e4l.cn",
+      "kind": null,
+      "identity": "wan9900/page-492d611123292ad19ee2a479"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "ca4338160667e208215e184b1f5ee020eaf45e932872f80634aff3aff86ab5db",
+    "sitemap.xml": "096656e31a62e118c360cc1b6e5a5009981a471c8e1bea598b40a102e9422251",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "cf5b070fb2c9ff7c8699dd664610c717ec97a891cb8e4b751281ab7f73be592c",
+    "robots.txt": "dc29c275a5b3220c36700aa39b87d79e7058eca1ae19adcfe1f052b511e605ca",
+    "9648a5105dde2969c1c2f515e3a91398.txt": "d2769258456cae7e63d5dbb98c054ae01c5d6a42e07b499d751daec9d38f7f3e"
+  },
+  "revision": "38a2e26988ba2b7a3aa5b1bcf6e8cdeab48970f7985a5d656e65206e5c1685ad"
+}
